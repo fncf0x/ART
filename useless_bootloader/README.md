@@ -19,4 +19,4 @@ qemu-system-i386 -fda floppy/main.flp
 
 ## Todo
 
-Make a simple shell that list devices and a bonus game feature.
+Make a simple shell that list devices and a bonus game.
